@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    align-self: center;
+    font-size: 5em;
+    background: linear-gradient(to right,aqua,rgb(112, 226, 226),wheat);
+    color: transparent;
+    background-clip: text;
+    animation: shine ease-in-out 2s infinite alternate;
+}
+@keyframes shine {
+    to{
+        background: linear-gradient(to right,wheat,rgb(112, 226, 226),aqua);
+        background-clip: text;
+    }
+}
+form{
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+div {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+}
+button{
+    width: max-content;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 10px;
+    transition: all 0.2s ease-in-out;
+}
+input{
+    cursor: pointer ;
+}
+button:hover{
+    scale:1.2;
+    background-color: aqua;
+}

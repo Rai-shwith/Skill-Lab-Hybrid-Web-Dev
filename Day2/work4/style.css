@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+main{
+    height: 80vh;
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/826348c2-cdcb-42a0-bc11-a788478ba5a2/6d20b198-e7ab-4e9f-a1aa-666faa0298f9/IN-en-20240729-POP_SIGNUP_TWO_WEEKS-perspective_WEB_a67d8c9e-8121-4a74-98e4-8005eb2df227_medium.jpg');
+    color: white;
+
+}
+.layer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.452);
+    justify-content: space-between;
+}
+img{
+    width: 148px;
+}
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px   ;
+}
+h1{
+    font-size: 3em;
+}
+h2{
+    font-size: 2em;
+}
+.end{
+    position:relative;
+    top: -33%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+input{
+    height: 100%;
+    width: 124%;
+    background-color: rgba(0, 0, 0, 0.538);
+    border: 1px solid gray;
+}
+.btn{
+    background-color: red;
+    width: max-content;
+    padding: 0 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+
+}
+.started{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}

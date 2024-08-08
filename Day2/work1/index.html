@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body >
+    <h1>Forms</h1>
+    <form action="">
+        <div class="">
+            <label for="firstName">First Name</label>
+            <input type="text" id="firstName" required placeholder="First Name"></div>
+        <div class="">
+            <label for="lastName">Last Name</label>
+            <input type="text" id="lastName" placeholder="Last Name">
+        </div>
+        <div class="">
+            <label for="email">Email</label>
+            <input type="email" id="email" placeholder="example@host.com">
+        </div>
+        <div class="">
+            <label for="pass">Password</label>
+            <input type="password" id="pass" placeholder="Password">
+        </div>
+        <div class="">
+            <label for="phone">Phone Number</label>
+            <input type="number" id="phone" min="1000000000" max="9999999999" placeholder="123456789">
+        </div>
+        <div class="">
+            <label for="qty">Quantity</label>
+            <input type="number" id="qty" min="0" placeholder="Quantity">
+        </div>
+        <div class="">
+            <label for="bday">Birthday</label>
+            <input type="date" id="bday">
+        </div>
+        <div class="">
+            <label for="bdayTime">Birthday</label>
+            <input type="datetime-local" id="bdayTime">
+        </div>
+        <div class="">
+            <label for="ff">Pizza</label>
+                <input type="radio" name="fastfood" id="ff">
+            <label for="id">Burger</label>
+                <input type="radio" name="fastfood" id="ff">
+            <label for="id">Sandwich</label>
+                <input type="radio" name="fastfood" id="ff">
+        </div>
+        <div class="">
+            <label for="sub">Subscribe</label>
+            <input type="checkbox" name="" id="sub">
+        </div>
+        <div class="">
+            <label for="sub">Next Travel Destination</label>
+            <select name="" id="">
+                <option value="">Paris</option>
+                <option value="">Kashmir</option>
+                <option value="">Coorg</option>
+            </select>
+        </div>
+        <div class="btns">
+            <button type="reset">Reset</button>
+        <button type="submit">Submit</button>
+    </div>
+    </form>
+</body>
+</html>
