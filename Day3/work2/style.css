@@ -1,0 +1,54 @@
+main{
+    display: grid;
+    grid-template-columns: 4vw 1fr;
+}
+section{
+    display: flex;
+    flex-direction: column;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.center{
+    align-items: center;
+    display: flex;
+    gap: 10px;
+}
+.searchBar{
+    display: flex;
+    height: min-content;
+    border: 1px solid gray;
+    padding: 5px 10px ;
+    border-radius: 100px;
+    min-width: 50vw;
+    justify-content: space-between;
+}
+input{
+    border: none;
+    width: 100%;
+}
+.end{
+    display: flex;
+    gap: 5px;
+}
+aside{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.ytLogo{
+    width: 90px;
+}
+input:focus{
+    border: none;
+    outline: none;
+}
+.content{
+    scale:1.5;
+    align-self: center;
+    margin-top: 15vh;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px gray,-3px 3px 3px gray,-1px 0 3px gray;
+}
