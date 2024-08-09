@@ -15,12 +15,12 @@ This repository contains the work I have completed as part of the Hybrid Web Dev
 - [Netflix Page](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Day2/work4/)
 
 ### Day 3
-- [Work 1](#)
-- [Work 2](#)
+- [Table and others](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Day3/work1/)
+- [Youtube simple clone](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Day3/work2/)
 
 
 ## Assignments
 
 - [Day 1 Assignment](#)
-- [Day 2 Assignment](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day2/)
-- [Day 3 Assignment](#)
+- [Tech Conferece](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day2/)
+- [Table with CSS](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day3/)
