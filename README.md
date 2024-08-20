@@ -21,7 +21,8 @@ This repository contains the work I have completed as part of the Hybrid Web Dev
 ### Day 4
 - [Form with css](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Day4/work1/)
 
-
+### Day 5
+- [Basic JavaScript usage](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Day5/work1/)
 
 ## Assignments
 
@@ -29,3 +30,4 @@ This repository contains the work I have completed as part of the Hybrid Web Dev
 - [Tech Conferece](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day2/)
 - [Table with CSS](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day3/)
 - [College Website](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day4/)
+- [Student Feedback System](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day5/)
