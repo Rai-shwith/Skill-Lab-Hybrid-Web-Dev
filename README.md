@@ -6,7 +6,7 @@ This repository contains the work I have completed as part of the Hybrid Web Dev
 
 ### Day 1
 - [MSRIT Landing Page](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Day1/work1/)
-- [Lists and Table](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Day2/work2/)
+- [Lists and Table](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Day1/work2/)
 
 ### Day 2
 - [Form](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Day2/work1/)
