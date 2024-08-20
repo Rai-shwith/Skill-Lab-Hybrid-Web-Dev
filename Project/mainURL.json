@@ -1,0 +1,5 @@
+{
+    "geocodingUrl": "https://api.openweathermap.org/data/2.5/weather?q={city}&appid=API_ID",
+    "dailyForecastUrl": "https://api.openweathermap.org/data/2.5/forecast?lat=12.{lat}&lon={lon}&appid={API_ID}"
+  }
+  
