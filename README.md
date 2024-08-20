@@ -28,3 +28,4 @@ This repository contains the work I have completed as part of the Hybrid Web Dev
 - [Personal Details](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day1/)
 - [Tech Conferece](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day2/)
 - [Table with CSS](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day3/)
+- [College Website](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day4/)
