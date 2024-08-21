@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>College Admission Form</title>
+  <link rel="stylesheet" crossorigin href="assets/index-DireFyFp.css">
+</head>
+
+<body class="p-7 min-h-screen bg-slate-300 flex flex-col items-center">
+  <div class="bg-center  bg-no-repeat bg-cover fixed -z-10 inset-0 opacity-15"
+    style="background-image: url('assets/college-DUsKW3mI.png');"></div>
+  <div class="flex gap-3">
+    <div class="logo w-16 h-16">
+      <img src="assets/logo-DMpFMX83.png" alt="" srcset="" class="object-contain w-full hfu">
+    </div>
+    <div class="flex flex-col items-center">
+      <div style="color: #371a6a;" class="font-bold text-3xl">Ramaiah</div>
+      <div style="color: #371a6a;" class="font-bold text-xl">Institute Of Technology</div>
+    </div>
+  </div>
+
+  <div class="flex flex-col md:flex-row justify-center gap-3 mt-6">
+    <div class=" bg-amber-600 rounded-md flex flex-col items-center p-3 text-slate-900 md:w-1/5">
+      <div class="text-xl text-slate-700 font-bold">TOP RANKED</div>
+      <div class="">
+        We are ranked No. 67 among 1249 Engineering & No. 17 among 91 Architecture Institutions across the country as per MHRD, Govt. of India, 2022
+      </div>
+    </div>
+    <div class=" bg-amber-600 rounded-md flex flex-col items-center p-3 text-slate-900 md:w-1/5">
+      <div class="text-xl text-slate-700 font-bold">INDUSTRY</div>
+      <div class="">We are collaborated with 46 Industries so far.
+        We have an average of 350 Publications per year.
+        We have an average of 96% Placement Percentage</div>
+    </div>
+    <div class=" bg-amber-600 rounded-md flex flex-col items-center p-3 text-slate-900 md:w-1/5">
+      <div class="text-xl text-slate-700 font-bold">NAAC Accreditated</div>
+      <div class="">We are accredited by NAAC with 'A+' grade with score of 3.28.
+        All of our academic departments are accredited by NBA under new process.</div>
+    </div>
+  </div>
+
+  <div class="form-container flex flex-col gap-7 m-7 bg-teal-500 p-3 rounded-md md:w-1/2 items-center">
+    <h2 class="text-2xl font-bold">Engineering College Admission Form</h2>
+    <form class="flex flex-col w-full items-center gap-4">
+      <div class="form-group flex w-full justify-between md:w-2/3">
+        <label for="full-name">Full Name</label>
+        <input class="rounded-md bg-teal-200 outline-none focus:outline-lime-400" type="text" id="full-name" name="full-name" required>
+      </div>
+      <div class="form-group flex w-full justify-between md:w-2/3">
+        <label for="email">Email Address</label>
+        <input class="rounded-md bg-teal-200 outline-none focus:outline-lime-400" type="email" id="email" name="email" required>
+      </div>
+      <div class="form-group flex w-full justify-between md:w-2/3">
+        <label for="phone">Phone Number</label>
+        <input class="rounded-md bg-teal-200 outline-none focus:outline-lime-400" type="tel" id="phone" name="phone" pattern="[0-9]{10}" required>
+      </div>
+      <div class="form-group flex w-full justify-between md:w-2/3">
+        <label for="date-of-birth">Date of Birth</label>
+        <input class="rounded-md bg-teal-200 outline-none focus:outline-lime-400" type="date" id="date-of-birth" name="date-of-birth" required>
+      </div>
+      <div class="form-group flex w-full justify-between md:w-2/3">
+        <label for="gender">Gender</label>
+        <select class="rounded-md bg-teal-200 outline-none focus:outline-lime-400" id="gender" name="gender" required>
+          <option value="" disabled selected>Select your gender</option>
+          <option value="male">Male</option>
+          <option value="female">Female</option>
+          <option value="other">Other</option>
+        </select>
+      </div>
+      <div class="form-group flex w-full justify-between md:w-2/3">
+        <label for="course">Course Interested In</label>
+        <select class="rounded-md bg-teal-200 outline-none focus:outline-lime-400" id="course" name="course" required>
+          <option value="" disabled selected>Select a course</option>
+          <option value="btech">B.Tech</option>
+          <option value="mtech">M.Tech</option>
+          <option value="phd">PhD</option>
+        </select>
+      </div>
+      <div class="form-group flex w-full justify-between md:w-2/3">
+        <label for="address">Address</label>
+        <textarea class="rounded-md bg-teal-200 outline-none focus:outline-lime-400" id="address" name="address" rows="4" required></textarea>
+      </div>
+      <div class="form-group flex w-full justify-between md:w-2/3">
+        <label for="education">Highest Qualification</label>
+        <input class="rounded-md bg-teal-200 outline-none focus:outline-lime-400" type="text" id="education" name="education" required>
+      </div>
+      <div class="w-full flex justify-center mb-6">
+        <button type="submit" class="px-3 hover:scale-110 transition-transform ease-in-out bg-teal-300 rounded-lg">Submit</button>
+      </div>
+    </form>
+  </div>
+  <footer>
+    2022 &copy; Ramaiah Institute of Technology, All Rights Reserved.
+  </footer>
+</body>
+
+</html>
