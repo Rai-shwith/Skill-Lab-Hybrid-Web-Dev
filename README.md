@@ -2,6 +2,13 @@
 
 This repository contains the work I have completed as part of the Hybrid Web Development program offered by my college. The program is structured in a day-by-day format, with specific tasks, exercises, and assignments to be completed each day. Below is an organized list of my daily progress, along with links to the assignments.
 
+## Assignments
+
+- Assignemt 1 -> [Personal Details](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day1/)
+- Assignemt 2 -> [Tech Conferece](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day2/)
+- Assignemt 3 -> [Table with CSS](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day3/)
+- Assignemt 4 -> [College Website](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day4/)
+- Assignemt 5 -> [Student Feedback System](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day5/)
 ## Days and Work
 
 ### Day 1
@@ -24,10 +31,3 @@ This repository contains the work I have completed as part of the Hybrid Web Dev
 ### Day 5
 - [Basic JavaScript usage](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Day5/work1/)
 
-## Assignments
-
-- [Personal Details](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day1/)
-- [Tech Conferece](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day2/)
-- [Table with CSS](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day3/)
-- [College Website](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day4/)
-- [Student Feedback System](https://rai-shwith.github.io/Skill-Lab-Hybrid-Web-Dev/Assignment/Day5/)
